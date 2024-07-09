@@ -50,3 +50,4 @@ ax.set(xlabel="k",
        ylabel="Accuracy",
        title="Performance of knn")
 plt.show()
+
